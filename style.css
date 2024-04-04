@@ -1,0 +1,21 @@
+* {
+    font-family: 'Geargia', 'Times New Roman', serif;
+    text-align: center;
+}
+
+h1 {
+
+    color: rgb(138, 10, 10);
+}
+
+a {
+    color: rgb(94, 122, 214);
+}
+
+p {
+    font-size: 18px;
+}
+
+ul{
+    align-self: center;
+}
